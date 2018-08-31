@@ -154,7 +154,7 @@ CUDA_VISIBLE_DEVICES=0 python eval_image_classifier_loop.py \
 ### Cyclical LR and Momentum
 
 <div align="center">
-  <img src="https://github.com/kobiso/super-convergence-tensorflow-slim/blob/master/figures/lr_momentum.png">
+  <img src="https://github.com/kobiso/super-convergence-tensorflow-slim/blob/master/figures/lr_momentum.png"  width="700">
 </div>
 
 ### Results
